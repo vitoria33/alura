@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Gosta de caminhar ou corre?",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
