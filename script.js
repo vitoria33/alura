@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         enunciado: "Você gosta de cuidar da sua saúde ou cuida por obrigação?",
-        alternativas: } [
+        alternativas:  [
             {
                 texto: "gosto de cuidar da minha saúde",
                 afirmacao: "Você provavelmete gosta de exercícios físicos "
